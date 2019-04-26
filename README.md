@@ -43,3 +43,6 @@ git clone --recurse-submodules https://github.com/matrix-io/matrix-lite-rb
 cd matrix-lite-rb/matrix-hal-swig && git checkout master && cd ..
 make clean && make
 ```
+
+# Usage
+You can use `ruby halSwig.rb` to see a basic led example. The code inside that file will contain unabstarcted examples of the [HAL Swig wrapper](https://github.com/matrix-io/matrix-hal-swig).
