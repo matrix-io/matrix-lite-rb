@@ -45,4 +45,6 @@ make clean && make
 ```
 
 # Usage
-You can use `ruby halSwig.rb` to see a basic led example. The code inside that file will contain unabstarcted examples of the [HAL Swig wrapper](https://github.com/matrix-io/matrix-hal-swig).
+You can use `ruby halSwig.rb` to see a basic led example. The code inside that file will contain untouched examples of the [HAL Swig wrapper](https://github.com/matrix-io/matrix-hal-swig).
+
+Similar to [matrix-lite-py](https://github.com/matrix-io/matrix-lite-py), we will eventaully provide an abstracted library.
