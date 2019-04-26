@@ -1,6 +1,6 @@
 # MATRIX-Lite-RB
 **Under Development**
-> This is a quick & dirty setup. Looking to improve setup in the near future.
+> This is a quick & dirty implementation. Looking to improve setup in the near future.
 
 MATRIX Lite RB is a library that allows users of varying skill levels to easily program their MATRIX Device.
 
