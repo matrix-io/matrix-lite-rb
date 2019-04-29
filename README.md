@@ -41,7 +41,7 @@ sudo apt-get install swig
 ```
 git clone --recurse-submodules https://github.com/matrix-io/matrix-lite-rb
 cd matrix-lite-rb/matrix-hal-swig && git checkout master && cd ..
-make clean && make
+make
 ```
 
 # Usage
