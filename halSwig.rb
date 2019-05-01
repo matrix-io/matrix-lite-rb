@@ -5,7 +5,7 @@ everloop = HalSwig::Everloop.new
 leds = []
 
 for i in 0..everloop.ledCount-1 do
-    leds <<  HalSwig::Led.new(2,2,0,0)
+    leds << HalSwig::Led.new(2,2,0,0)
 end
 
 everloop.set(leds)
