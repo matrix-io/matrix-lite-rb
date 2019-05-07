@@ -1,3 +1,4 @@
+# Will add more examples to match the python version: https://github.com/matrix-io/matrix-lite-py/blob/master/swigExamples.py
 require './build/halSwig'
 
 # EVERLOOP EXAMPLE
