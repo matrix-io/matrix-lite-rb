@@ -5,9 +5,7 @@
 MATRIX Lite RB is a library that allows users of varying skill levels to easily program their MATRIX Device.
 
 # Roadmap
-> Examples not yet documented.
-
-This roadmap is for achieving a basic implementation of the checklist below. As this package develops, the API will improve and may change
+This roadmap is for achieving a basic implementation of the checklist below. A nicer abstraction will eventually be added.
 
 - [x] Leds
 - [x] Sensors
@@ -45,6 +43,6 @@ make
 ```
 
 # Usage
-You can use `ruby halSwig.rb` to see a basic led example. The code inside that file will contain untouched examples of the [HAL Swig wrapper](https://github.com/matrix-io/matrix-hal-swig).
+You can use `ruby swigExamples.rb` to see a basic led example. The code inside that file will contain untouched examples of the [HAL Swig wrapper](https://github.com/matrix-io/matrix-hal-swig).
 
 Similar to [matrix-lite-py](https://github.com/matrix-io/matrix-lite-py), we will eventaully provide an abstracted library for this.
